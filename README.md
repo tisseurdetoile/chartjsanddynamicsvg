@@ -1,6 +1,8 @@
-# velotaffsiege
+# chartjsanddynamicsvg
 
-This template should help get you started developing with Vue 3 in Vite.
+Example of interaction of chartjs and svg file
+
+Demo [here](http://github.tisseurdetoile.net/chartjsanddynamicsvg/)
 
 ## Recommended IDE Setup
 
